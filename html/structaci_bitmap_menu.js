@@ -1,0 +1,27 @@
+var structaci_bitmap_menu =
+[
+    [ "aciBitmapMenu", "structaci_bitmap_menu.html#a601178b47c8d801a343b67aa98a3e1cd", null ],
+    [ "~aciBitmapMenu", "structaci_bitmap_menu.html#a3f2088e8dc0d2686cb5bb97579ad7028", null ],
+    [ "add_item", "structaci_bitmap_menu.html#aa49e7abb033c86ed7f233772273ed234", null ],
+    [ "alloc_mem", "structaci_bitmap_menu.html#a1fb6821198274bd711cb3337b0256558", null ],
+    [ "build_pict", "structaci_bitmap_menu.html#a647d609d0bdb8d318b3738d011cc0db4", null ],
+    [ "change", "structaci_bitmap_menu.html#a4c3a5b88c313a4dec6b10a3675b6b5e3", null ],
+    [ "check_xy", "structaci_bitmap_menu.html#a952a4da5f986430e029fb2a4febc4c4a", null ],
+    [ "finit", "structaci_bitmap_menu.html#aca6c541f49ae6067072a5a9ed0ea230c", null ],
+    [ "free_mem", "structaci_bitmap_menu.html#ae55bc1092526e387a1b2e7f285c91c56", null ],
+    [ "go2upmenu", "structaci_bitmap_menu.html#aefb7ce9f969c710d5946ce7502b0937f", null ],
+    [ "init", "structaci_bitmap_menu.html#a3af1b1b15aca1979e532a246722ba13e", null ],
+    [ "redraw", "structaci_bitmap_menu.html#a7993a094520c579f222a297852cea605", null ],
+    [ "remap_coords", "structaci_bitmap_menu.html#aa45cbe2aa219cc43238dc1bdf7a1e7c9", null ],
+    [ "activeCount", "structaci_bitmap_menu.html#a6299526796972c166842c11653231f2a", null ],
+    [ "curCount", "structaci_bitmap_menu.html#ac71d7789f13746573d0629ea9ab695bd", null ],
+    [ "flags", "structaci_bitmap_menu.html#a5a6fb3881b6ea85368eea8b2030c23d4", null ],
+    [ "ID", "structaci_bitmap_menu.html#aff126051eb00ee13e10e9572bb81aa10", null ],
+    [ "items", "structaci_bitmap_menu.html#ac765a7439cbab53a780ead9ffd430fc4", null ],
+    [ "pictBuf", "structaci_bitmap_menu.html#ac86edc22ff72b7a4492f39e60a1bb04c", null ],
+    [ "PosX", "structaci_bitmap_menu.html#a3edc457bfa7cbb4d2fcf006c342bb07e", null ],
+    [ "PosY", "structaci_bitmap_menu.html#a3713cbd02de5f633a844b1453b167829", null ],
+    [ "SizeX", "structaci_bitmap_menu.html#a629b9ae6b788e72276a3b83a10880d00", null ],
+    [ "SizeY", "structaci_bitmap_menu.html#a1fbf16107abc53705c26dd948446b127", null ],
+    [ "upMenu", "structaci_bitmap_menu.html#aa75f6f45297f668089a7934fa3e4e20e", null ]
+];

@@ -1,0 +1,26 @@
+var struct_effect_dispatcher =
+[
+    [ "CalcWave", "struct_effect_dispatcher.html#acc636082040a5472c83136b8b47afc6c", null ],
+    [ "Close", "struct_effect_dispatcher.html#a989057be2f32be04f00c35348f47d251", null ],
+    [ "CreateDeform", "struct_effect_dispatcher.html#a641e008adfbf5b5d67f0231307554eb0", null ],
+    [ "CreateDirectParticle", "struct_effect_dispatcher.html#ad70aad655e10148d94af8f2abad8c35f", null ],
+    [ "CreateExplosion", "struct_effect_dispatcher.html#ac729ef3c3059c042f8c1df3f58485e46", null ],
+    [ "CreateFireBall", "struct_effect_dispatcher.html#a8a503b50a4ddc932156a9bd538c193f8", null ],
+    [ "CreateParticle", "struct_effect_dispatcher.html#a6d620f646bf4fc9975664a1d3e04e614", null ],
+    [ "CreateParticle", "struct_effect_dispatcher.html#a31e1647d9f5510296b45e0eb8d883eae", null ],
+    [ "CreateParticle", "struct_effect_dispatcher.html#af7f7d56f84aaa2a92195cbb85f3431c0", null ],
+    [ "CreateParticleGenerator", "struct_effect_dispatcher.html#aca7e7ff76ad1d55f5d888a8f8c630dc6", null ],
+    [ "CreateParticleTime", "struct_effect_dispatcher.html#a5890a81219261462fe596cdab0e4f8e7", null ],
+    [ "CreateRingOfLord", "struct_effect_dispatcher.html#a5204bce4e90cf68f1c5b7f42db9712c0", null ],
+    [ "DeleteEffect", "struct_effect_dispatcher.html#a2aee57354c1f2b896cfdddb25ee53d7f", null ],
+    [ "Free", "struct_effect_dispatcher.html#a4e7b032d62bbc1d2232562273b973e19", null ],
+    [ "Init", "struct_effect_dispatcher.html#a1365409ee0740c969b1eef7365c0058b", null ],
+    [ "Open", "struct_effect_dispatcher.html#a996364f92199612d8a03b6be8724f2f5", null ],
+    [ "Quant", "struct_effect_dispatcher.html#a072f6293f6b2b96d12f64379614c0af1", null ],
+    [ "DeformData", "struct_effect_dispatcher.html#a08ab230e1fd382507473a208ea8b67d8", null ],
+    [ "FireBallData", "struct_effect_dispatcher.html#a61b663a8f1d97fb388c29ce12eead14b", null ],
+    [ "NumDeformProcessType", "struct_effect_dispatcher.html#aad6692af9cc54a611414cedea7d2b8bd", null ],
+    [ "NumFireBallProcessType", "struct_effect_dispatcher.html#a5769e5dcd751274496481abfe8dfd6b1", null ],
+    [ "NumParticleInitType", "struct_effect_dispatcher.html#a6e2f554402c092ee88567c3470e8d67e", null ],
+    [ "ParticleInitData", "struct_effect_dispatcher.html#ab710b30cf4046d2e616f605702c8ef7c", null ]
+];

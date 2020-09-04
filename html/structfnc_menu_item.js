@@ -1,0 +1,25 @@
+var structfnc_menu_item =
+[
+    [ "fncMenuItem", "structfnc_menu_item.html#a77bd67639f6c4dd83661f855f7ed2550", null ],
+    [ "~fncMenuItem", "structfnc_menu_item.html#a6d92f773eae75fab038d67b4f36b14c1", null ],
+    [ "add_key", "structfnc_menu_item.html#a6d29165e9b7588d9d2c09f9b482a3e1f", null ],
+    [ "check_y", "structfnc_menu_item.html#a39b5db5a7adc78add963741e7bcb136d", null ],
+    [ "clone", "structfnc_menu_item.html#a091b221da0d562785712da85d2d267fa", null ],
+    [ "init", "structfnc_menu_item.html#aaa1ee372fc6244076b431ce872e1e968", null ],
+    [ "init_name", "structfnc_menu_item.html#a13918e6a900d941a5ce998f2e52ffbbb", null ],
+    [ "redraw", "structfnc_menu_item.html#a8567b616a78878bcdc41fbc9983fc238", null ],
+    [ "redraw_str", "structfnc_menu_item.html#aff41c781753fbbbc9403a745574a77e2", null ],
+    [ "eventPtr", "structfnc_menu_item.html#a0495718502b663a15fb7a0ddd6b866c9", null ],
+    [ "flags", "structfnc_menu_item.html#a67c2059bb0e1cbc4c48195d627f24bbb", null ],
+    [ "fnc_code", "structfnc_menu_item.html#a0e6992b110d7d404418ae8a9ff236758", null ],
+    [ "font", "structfnc_menu_item.html#ab41382a118a469cff8221434b7e19f95", null ],
+    [ "name", "structfnc_menu_item.html#a800657d7052bd9fe06a7dcb025f1d417", null ],
+    [ "name_len", "structfnc_menu_item.html#a43777131c0f77ce9567b2dfb5102e03d", null ],
+    [ "PosX", "structfnc_menu_item.html#a8c44e3687d598e49d0d3b311986db8ce", null ],
+    [ "PosY", "structfnc_menu_item.html#aed279b5c6a4cc1b72e162b6514b0e4d6", null ],
+    [ "scankey", "structfnc_menu_item.html#a1c39ecad11c3bfe94104633922b3bfb8", null ],
+    [ "SizeX", "structfnc_menu_item.html#a3e76b7dbeded0e5bc53fc3b3e80f7a4a", null ],
+    [ "SizeY", "structfnc_menu_item.html#a9a8bb64502c70549330ac7f4ba49fa3e", null ],
+    [ "space", "structfnc_menu_item.html#a52f805ee7263c50cd2681796e9ac773a", null ],
+    [ "submenuID", "structfnc_menu_item.html#acccc931f68a0425fdfae2491f8eaf6f3", null ]
+];

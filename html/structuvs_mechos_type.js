@@ -1,0 +1,27 @@
+var structuvs_mechos_type =
+[
+    [ "uvsMechosType", "structuvs_mechos_type.html#af1e884eb5657177fe8f55dd542e5c0a3", null ],
+    [ "uvsMechosType", "structuvs_mechos_type.html#adbccc5249d85638773ba23b2e1b62bfb", null ],
+    [ "uvsMechosType", "structuvs_mechos_type.html#af78bb33577b56f94676cf7d6ac5d94ce", null ],
+    [ "save", "structuvs_mechos_type.html#a404676f68680bf57f81c6c82c6e2c9df", null ],
+    [ "box", "structuvs_mechos_type.html#a17c2784bda4eb9339ba5b1348561f2d8", null ],
+    [ "constractor", "structuvs_mechos_type.html#a192bd779be7c922c2c5b1d2258f36424", null ],
+    [ "DeltaEnergy", "structuvs_mechos_type.html#a2d7571ecf31705d554da5105bdabc635", null ],
+    [ "DropEnergy", "structuvs_mechos_type.html#a8f981a238b27b80b3824682699c4f9ff", null ],
+    [ "DropTime", "structuvs_mechos_type.html#ae3a26326ba8291a5d7f1db14fcb0249e", null ],
+    [ "gamer_kill", "structuvs_mechos_type.html#aada23bdd5f60f51b5a2a4bd88ac577e9", null ],
+    [ "gamer_use", "structuvs_mechos_type.html#a1f433fa5258c958521c230a1b4ee173c", null ],
+    [ "MaxArmor", "structuvs_mechos_type.html#a6fa41a1f9fd845129aa8eb06b175ddfb", null ],
+    [ "MaxDamage", "structuvs_mechos_type.html#a9ae1e41670fb531162b138e175fc3923", null ],
+    [ "MaxEnergy", "structuvs_mechos_type.html#a1d1d790e9663ae894c2ea78c3066f60c", null ],
+    [ "MaxFire", "structuvs_mechos_type.html#a396e043bb0d96a8347df7113be865be6", null ],
+    [ "MaxFly", "structuvs_mechos_type.html#aff167cb8aadc4b394b0f3a3153eaeaca", null ],
+    [ "MaxOxigen", "structuvs_mechos_type.html#a1ec484f736e7b6246beb18f345484d17", null ],
+    [ "MaxSpeed", "structuvs_mechos_type.html#a1fcdde96211b659fe5b56252346d9e06", null ],
+    [ "MaxTeleport", "structuvs_mechos_type.html#a332eff77809a49b4c9e5bd6d4baabf96", null ],
+    [ "MaxWater", "structuvs_mechos_type.html#a054629c416c8c8a9d63314895b1a310f", null ],
+    [ "name", "structuvs_mechos_type.html#a404c6859e6f659af4ce587e7b3d3903b", null ],
+    [ "price", "structuvs_mechos_type.html#ad556c0bffdaff24fb1e1d109510af114", null ],
+    [ "sell_price", "structuvs_mechos_type.html#a544ca9eacd86c9cc5968dec9cdb4d123", null ],
+    [ "type", "structuvs_mechos_type.html#a0bf634423fdb44d8c78a2071f947afa6", null ]
+];

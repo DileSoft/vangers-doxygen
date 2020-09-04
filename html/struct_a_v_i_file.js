@@ -1,0 +1,27 @@
+var struct_a_v_i_file =
+[
+    [ "~AVIFile", "struct_a_v_i_file.html#af7065ea3dc27ea02290f905e2535f75a", null ],
+    [ "AVIFile", "struct_a_v_i_file.html#a3d4278043c50e7d5b965ad2e03f5d382", null ],
+    [ "AVIFile", "struct_a_v_i_file.html#ae8b676e20e77225e274e5b1047f5f2e9", null ],
+    [ "close", "struct_a_v_i_file.html#a38a19ed628427ce282ff92bd6dfc3697", null ],
+    [ "draw", "struct_a_v_i_file.html#a362642e07a381d0f9a00d0a4e15b86fc", null ],
+    [ "open", "struct_a_v_i_file.html#ab80abb0b59b581cfd08d71963c90f801", null ],
+    [ "avCriticalSection", "struct_a_v_i_file.html#a8b90fd1e3bddf9c79767929ce27f78a5", null ],
+    [ "color_table", "struct_a_v_i_file.html#ac6815b8605ecadab4dfcb905953a6151", null ],
+    [ "filename", "struct_a_v_i_file.html#a65894b61abc3965d64c72b3773e3431f", null ],
+    [ "flags", "struct_a_v_i_file.html#ac88862b7fa5654c7e208189e273ef668", null ],
+    [ "height", "struct_a_v_i_file.html#a5a416303653e887021e80176c0cb91d8", null ],
+    [ "packet", "struct_a_v_i_file.html#a5d63d3c9bc42a4b664b8505af5ed3058", null ],
+    [ "palette", "struct_a_v_i_file.html#adc14a55e79b86c102066959bf66435e4", null ],
+    [ "pause", "struct_a_v_i_file.html#adda1cc34cb37140669c69f1b338b64a6", null ],
+    [ "pCodec", "struct_a_v_i_file.html#a17e0a15c801017deb6fd1a9395d32af4", null ],
+    [ "pCodecCtx", "struct_a_v_i_file.html#acedacd3ac9fd6be9bd44a0a7a1249c1f", null ],
+    [ "pFormatCtx", "struct_a_v_i_file.html#ac1fa38927fd2c8961353ae1b86c4ba19", null ],
+    [ "pFrame", "struct_a_v_i_file.html#aeed12755f4a6909356bc5d9668b90ce3", null ],
+    [ "redraw", "struct_a_v_i_file.html#a9b9cdb458570c99c71d3f98638b6e9c3", null ],
+    [ "released", "struct_a_v_i_file.html#ae88ea44e47abdc3fbbbd518ebceb9e8b", null ],
+    [ "videoStream", "struct_a_v_i_file.html#a23b1ef7aa6e23880695eabb904917ee2", null ],
+    [ "width", "struct_a_v_i_file.html#a1edb97a7a2c981e0948233a2588b8f59", null ],
+    [ "x", "struct_a_v_i_file.html#ae4a12aea40e30eae17171153e4d406ab", null ],
+    [ "y", "struct_a_v_i_file.html#a4131324464f21b0e3d3e5177c8a41174", null ]
+];

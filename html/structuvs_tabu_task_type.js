@@ -1,0 +1,25 @@
+var structuvs_tabu_task_type =
+[
+    [ "uvsTabuTaskType", "structuvs_tabu_task_type.html#ada60042c1c72789189725132660b98ea", null ],
+    [ "~uvsTabuTaskType", "structuvs_tabu_task_type.html#a0b2ea085337fba1d9a99b72e9195a049", null ],
+    [ "activate", "structuvs_tabu_task_type.html#a3c2c585b76c9979af9387647a409c20d", null ],
+    [ "activateDOLLY", "structuvs_tabu_task_type.html#a17780d4c139cebe4c0cc2517ea3ad888", null ],
+    [ "activateVANGER", "structuvs_tabu_task_type.html#a3160bfd2560c90f68096fcc4b7c2f17f", null ],
+    [ "checkCycleEvent", "structuvs_tabu_task_type.html#a7ef32a4393341ef6714fde7e8afaa752", null ],
+    [ "Erase", "structuvs_tabu_task_type.html#a39e827e784dcf545fcecf868f77e890f", null ],
+    [ "is_able", "structuvs_tabu_task_type.html#ae8b26360dce6b91a8acbc94eba79ff56", null ],
+    [ "cash", "structuvs_tabu_task_type.html#a3ca7b0f31a0e26b58e0c4f29947d4993", null ],
+    [ "cycle", "structuvs_tabu_task_type.html#a2526a30440a9cf1a84285766b0a20ea9", null ],
+    [ "item", "structuvs_tabu_task_type.html#a0d49c794520dc7d813a39ccad63da7cf", null ],
+    [ "item_count", "structuvs_tabu_task_type.html#a0c8dbe3cbceadfa4aded50d1e759e87d", null ],
+    [ "item_number", "structuvs_tabu_task_type.html#a4504199ed843280dd9450e96e88e5590", null ],
+    [ "luck", "structuvs_tabu_task_type.html#acc1ee5c911d575b7bc2dc09f2c3a2f6e", null ],
+    [ "param", "structuvs_tabu_task_type.html#ac2eb667790d654ef91aa7217ceb9158a", null ],
+    [ "priority", "structuvs_tabu_task_type.html#a4d88c26cb1cd34ad6cc7e268c23a3a4e", null ],
+    [ "Ptarget", "structuvs_tabu_task_type.html#a06a45b6e33de1cbc6089f03f573a7b6d", null ],
+    [ "Pworld", "structuvs_tabu_task_type.html#a3932c789b87fa7a43e7881227a291282", null ],
+    [ "real_count", "structuvs_tabu_task_type.html#ad7e3d74d55315ee63c29527673a40bda", null ],
+    [ "status", "structuvs_tabu_task_type.html#a47ed36648f3a25a501070009da667949", null ],
+    [ "target", "structuvs_tabu_task_type.html#adc96568e45c88c79ecd3f5b931a2bd9a", null ],
+    [ "work_on_target", "structuvs_tabu_task_type.html#a540fb9a1fdb55ec558b406a00624e845", null ]
+];

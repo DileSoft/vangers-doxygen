@@ -1,0 +1,28 @@
+var diagen_8h =
+[
+    [ "DG_EXTERNS", "struct_d_g___e_x_t_e_r_n_s.html", "struct_d_g___e_x_t_e_r_n_s" ],
+    [ "dgFile", "structdg_file.html", "structdg_file" ],
+    [ "dgAtom", "structdg_atom.html", "structdg_atom" ],
+    [ "dgQuery", "structdg_query.html", "structdg_query" ],
+    [ "dgMolecule", "structdg_molecule.html", "structdg_molecule" ],
+    [ "dgCell", "structdg_cell.html", "structdg_cell" ],
+    [ "DG_CELLSTATUS", "struct_d_g___c_e_l_l_s_t_a_t_u_s.html", "struct_d_g___c_e_l_l_s_t_a_t_u_s" ],
+    [ "dgRoom", "structdg_room.html", "structdg_room" ],
+    [ "DiagenDispatcher", "struct_diagen_dispatcher.html", "struct_diagen_dispatcher" ],
+    [ "DG_ENTER_COMMAND", "diagen_8h.html#a1a7437d5073c5ca5030ffdbd5d1cb113", null ],
+    [ "DG_ESCAVE_MAX", "diagen_8h.html#a7f6755ca8fd14c9e38ebd9c07bd3db3a", null ],
+    [ "DG_FINAL", "diagen_8h.html#a741c0fd9a448bbda03d04ec3d1872303", null ],
+    [ "DG_GET_COMMAND", "diagen_8h.html#a3a761f471a973ce494bcfbd9cf72a891", null ],
+    [ "DG_GET_NEXT_PHRASE", "diagen_8h.html#add530219e3a1909a837bea3d4c36db98", null ],
+    [ "DG_GET_QUERY_LIST", "diagen_8h.html#ab63717e66ea35eb144279918917549be", null ],
+    [ "DG_PASSENGER", "diagen_8h.html#afef634ad336c0af2373ba33bfb32fc88", null ],
+    [ "DG_POPONKA", "diagen_8h.html#aaf46848871ae00dfcb77e28c0564e435", null ],
+    [ "DG_POPONKA_MAX", "diagen_8h.html#a07a69dd19ef8897f4e8a8300766c0367", null ],
+    [ "DG_SECRETW_MAX", "diagen_8h.html#ae715fd2f2e2bf0f7cbb98c4612ced313", null ],
+    [ "DG_SKIP_ALL", "diagen_8h.html#a9cdc640ba497e35170a9e6b179a05882", null ],
+    [ "DG_TABUTASK", "diagen_8h.html#a4786e7abc985a930b1c6442acdf72bb8", null ],
+    [ "DG_TEST_QUERY", "diagen_8h.html#a37953791e3067d0cf402171c227ebd72", null ],
+    [ "diagenEventHandle", "diagen_8h.html#a8738e61ed4ffc10bb23e15283870c376", null ],
+    [ "diagenPrepare", "diagen_8h.html#a30ab6f690aa1796e0f47e7030e295c06", null ],
+    [ "dgD", "diagen_8h.html#af2ec4a362e23eaf6fb1649b8adb3c716", null ]
+];

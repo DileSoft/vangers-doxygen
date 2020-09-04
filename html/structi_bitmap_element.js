@@ -1,0 +1,27 @@
+var structi_bitmap_element =
+[
+    [ "iBitmapElement", "structi_bitmap_element.html#a935038ccbf14796d816fe0f26ac69d3f", null ],
+    [ "alloc_mem", "structi_bitmap_element.html#a311b858c41b21e23563de178aaa595bb", null ],
+    [ "free", "structi_bitmap_element.html#af6d47044562097fab1c968b515e786a7", null ],
+    [ "free_mem", "structi_bitmap_element.html#a629d9e34694dddee402cff7990a58aa6", null ],
+    [ "free_shape", "structi_bitmap_element.html#a126a43cc3d4190e88ed9cc5f78d8b941", null ],
+    [ "init_name", "structi_bitmap_element.html#a4aed3e9e395c6a75bcba62b12d4921b7", null ],
+    [ "init_palname", "structi_bitmap_element.html#aaf9d01d60e459cdbd7bcfc457c164a3a", null ],
+    [ "init_size", "structi_bitmap_element.html#ac8a3ff7d00b4f392225ae1e7380e1842", null ],
+    [ "load", "structi_bitmap_element.html#ac494827c6f82e3d4899c75aa33e23969", null ],
+    [ "load_shape", "structi_bitmap_element.html#adf10d9590706b7ab0efc35d903b16fd9", null ],
+    [ "set_pal", "structi_bitmap_element.html#af2b79e22080d092765eeb72da6193cb3", null ],
+    [ "bmp_names", "structi_bitmap_element.html#ab4d100b7320c33563f8d065dc516507d", null ],
+    [ "bmp_null_level", "structi_bitmap_element.html#a575706bf0e1ff3ac5ae5d88ff0795150", null ],
+    [ "border_shape", "structi_bitmap_element.html#a8b1314768c453e38881000aaf354489d", null ],
+    [ "border_shape_file", "structi_bitmap_element.html#ac1fc0aff4a9de2a3251150ee33cef235", null ],
+    [ "bSizeX", "structi_bitmap_element.html#a5dff65c3852e6d13819d351a4b63c50f", null ],
+    [ "bSizeY", "structi_bitmap_element.html#ab592855eb4f37e7b07dcb76926bf3dab", null ],
+    [ "fdata", "structi_bitmap_element.html#a0ccef32ad472667c8e360a6dde06d7ab", null ],
+    [ "fname", "structi_bitmap_element.html#a03fbbaeae4c840a4b1d84b974d5bc3c3", null ],
+    [ "ibs", "structi_bitmap_element.html#ac2ee7b227f7b097fee6ae8757bcdc81f", null ],
+    [ "pal_names", "structi_bitmap_element.html#ad059845674d19887edf448eb693c1864", null ],
+    [ "palname", "structi_bitmap_element.html#ae9a1cea056a956b9871bd7ca524b5c7b", null ],
+    [ "ShSizeX", "structi_bitmap_element.html#acb4d8282e562d8acdf5f136a9795c2c9", null ],
+    [ "ShSizeY", "structi_bitmap_element.html#a3d37ccd479ab8b7e8729581f27cbf5c4", null ]
+];

@@ -1,0 +1,26 @@
+var structuvs_cult_game =
+[
+    [ "uvsCultGame", "structuvs_cult_game.html#a8dfed3096d7713a18cb946d9474913a4", null ],
+    [ "~uvsCultGame", "structuvs_cult_game.html#abb0f5c3237394c91761ccf3e7c46b4bd", null ],
+    [ "uvsCultGame", "structuvs_cult_game.html#aa242fb7fb5311fa55d8d5cd6802a34ba", null ],
+    [ "all", "structuvs_cult_game.html#ab9f1ffcc1bb7a4cf60af7eea91384fa3", null ],
+    [ "first", "structuvs_cult_game.html#a027941955c8bd27210ede105040a8bed", null ],
+    [ "flag", "structuvs_cult_game.html#a10b0d8c2354423e6f08700865c99ab96", null ],
+    [ "GameType", "structuvs_cult_game.html#a2cc3655e4db14045ccf7a329398cdc44", null ],
+    [ "GoodsBegCount", "structuvs_cult_game.html#a2f5190b477e0b1446208fb621a920092", null ],
+    [ "GoodsEndCount", "structuvs_cult_game.html#a20c0b14a4f54b251ab602549584e350d", null ],
+    [ "GoodsTypeBeg", "structuvs_cult_game.html#a3d449b14941af26d32d368a745268d0a", null ],
+    [ "GoodsTypeBegCount", "structuvs_cult_game.html#a7932a3eedab81b2e5c9995e80cf19138", null ],
+    [ "GoodsTypeEnd", "structuvs_cult_game.html#acd801d9a46d404bc8255160711aa073c", null ],
+    [ "GoodsTypeEndCount", "structuvs_cult_game.html#a2c50dfdc17899b83c6b4470836db0684", null ],
+    [ "GoodsTypeLast", "structuvs_cult_game.html#a5da40dae22d3dd7ade40d36b1454f7a8", null ],
+    [ "result", "structuvs_cult_game.html#a39f93c784ce94e63f2d7c7a86c42c6ac", null ],
+    [ "score", "structuvs_cult_game.html#aff1b74db0fba3b2c933eb01e1e1e691b", null ],
+    [ "start", "structuvs_cult_game.html#a7e4aad12e4b5b5fff0ff16c13a8ef950", null ],
+    [ "sucks", "structuvs_cult_game.html#a5bf2bb8f5ba19e862ad23c02aa64da53", null ],
+    [ "total", "structuvs_cult_game.html#aba3f9842486874eb70113ea85e5618ae", null ],
+    [ "townBeg", "structuvs_cult_game.html#a240303426d9dbc76cfa7c5d6aa2dff4b", null ],
+    [ "townEnd", "structuvs_cult_game.html#abe77459c79e2a530d4d491913fa345d8", null ],
+    [ "typeTownBeg", "structuvs_cult_game.html#a88a3a32e274c6feb6e22c287b2b66d39", null ],
+    [ "typeTownEnd", "structuvs_cult_game.html#a8f30ca6bddc82dcdb4dcad0a58773218", null ]
+];

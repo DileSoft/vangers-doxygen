@@ -1,0 +1,25 @@
+var struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s =
+[
+    [ "ESCAVE_SLEEPING", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a8210cfaf094af43c8845039a542856e9", null ],
+    [ "ESCAVE_WAITING", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a3799f40a79a2c0950fb3c7412610aad0", null ],
+    [ "SPOT_WAITING", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a97cf652d5d58eccee7fa0c6d7ca12c38", null ],
+    [ "SPOT_SLEEPING", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398af1236e81221c6fedf36230caaabc5f3c", null ],
+    [ "GAME_BEGIN_ESCAVE", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a96a75840ba02b1bd742b0452bf44fac7", null ],
+    [ "GAME_BEGIN_SPOT", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a245c2a10a957c942e3fe67686eea1bf0", null ],
+    [ "GAME_HUNTER_BEGIN_ESCAVE", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a0d84b8cf5486f6e45d585589858b7236", null ],
+    [ "GAME_HUNTER_BEGIN_SPOT", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a0108a24c6742ae3764a7651d1a502a96", null ],
+    [ "PASSAGE_GAP", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a01220f0f85d97c5752ecf40366d74a03", null ],
+    [ "AIM_HANDLE", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a13ad102b228a04e80169d483b572b1c4", null ],
+    [ "MOVEMENT", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398aec3425cb15a62263865f2d8869f3515b", null ],
+    [ "FREE_MOVEMENT", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a313f53d046b120d8ec2bb50240aa10d6", null ],
+    [ "WAIT_GAMER", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a439e3793f7c67f3a30e84159b3d516c4", null ],
+    [ "RACE", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398adc260e63e168b80e38d42c76847f1c7c", null ],
+    [ "RACE_HUNTER", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a1f5c64f5d604ff13035095de4837a8bc", null ],
+    [ "GATHERING", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a0a1e77c2fb876b7920d5dbadc08801ff", null ],
+    [ "SHOPPING", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a1772969fde75426d724885a9e9866e46", null ],
+    [ "IN_SHOP", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a61c0aa304ef869450f64b6078906a3c4", null ],
+    [ "GO_NEW_WORLD", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a0149cebb8b80b40e64ef75a02a9a505f", null ],
+    [ "GO_NEW_ESCAVE", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a03f549e6a76f59c5554728fceb2eed3c", null ],
+    [ "MOVE_TO_MECHOS", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398ab9e536e328425ec863ea0cb4467e71b3", null ],
+    [ "KILLED_BY_GAMER", "struct_u_v_s___v_a_n_g_e_r___s_t_a_t_u_s.html#aa49d02caa275cd69914f9783ff946398a657ab52acfae647df8477f3783e31179", null ]
+];
